@@ -105,3 +105,5 @@
     git checkout master
 
 где master название ветки
+
+## Ветвления
