@@ -119,3 +119,5 @@
     git branch name_branch
 
 где name_branch - имяновой ветки.
+
+## Слияние веток
